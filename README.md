@@ -4,7 +4,7 @@ Keras Deep Learning Study 자료 정리
 
 # 목차
 
-5장 - 컴퓨터 비전을 위한 딥러닝 \
+5장 - 컴퓨터 비전을 위한 딥러닝 
   >> 5-1, 5-2.pptx \
   >> 5_1_Code.ipynb \
   >> 5_2_Code.ipynb \
