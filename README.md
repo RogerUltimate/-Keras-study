@@ -12,7 +12,7 @@ Keras Deep Learning Study 자료 정리
   >> image_classification_from_scratch_주석.ipynb \
   >> transfer_learning의_주석.ipynb 
 
-6장 - 텍스트위 시퀸스를 위한 딥러닝 \
+6장 - 텍스트와 시퀸스를 위한 딥러닝 \
 7장 - 딥러닝을 위한 고급 도구 \
 8장 - 생성 모델을 위한 딥러닝 \
 9장 - 결론
