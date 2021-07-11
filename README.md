@@ -2,6 +2,10 @@
 
 Keras Deep Learning Study 자료 정리
 
+## 코드 출처
+[길벗 <케라스 창시자에게 배우는 딥러닝>(길벗, 2018)](https://github.com/gilbutITbook/006975)
+
+
 # 목차
 
 5장 - 컴퓨터 비전을 위한 딥러닝 
