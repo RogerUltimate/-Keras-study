@@ -8,6 +8,7 @@ Keras Deep Learning Study 자료 정리
   >> 5-1, 5-2.pptx \
   >> 5_1_Code.ipynb \
   >> 5_2_Code.ipynb \
+  >> 5_2_Code_뒷부분_수정본.ipynb \
   >> 5-3.conv 기초.pptx \
   >> image_classification_from_scratch_주석.ipynb \
   >> transfer_learning의_주석.ipynb 
