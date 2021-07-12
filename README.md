@@ -17,12 +17,12 @@ Keras Deep Learning Study 자료 정리
   >> image_classification_from_scratch_주석.ipynb \
   >> transfer_learning의_주석.ipynb 
 
-6장 - 텍스트와 시퀸스를 위한 딥러닝 \
+6장 - 텍스트와 시퀸스를 위한 딥러닝 
   >> ch6-1,2발표.pdf \
   >> 6.1-one-hot-encoding-of-words-or-characters.ipynb \
   >> 6.1-using-word-embeddings.ipynb \
   >> 6.2-understanding-recurrent-neural-networks.ipynb \
-  >> 6_3code실습.ipynb \ 
+  >> 6_3code실습.ipynb \
   >> 6_4_code실습.ipynb
 
 7장 - 딥러닝을 위한 고급 도구 \
