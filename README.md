@@ -26,9 +26,12 @@ Keras Deep Learning Study 자료 정리
   >> 6_4_code실습.ipynb
 
 7장 - 딥러닝을 위한 고급 도구 
->> 7-3, 8-1.pptx \
->> 7_3_Code.ipynb \
->> 8_1_Code.ipynb
+  >> 7-3, 8-1.pptx \
+  >> 7_3_Code.ipynb 
 
-8장 - 생성 모델을 위한 딥러닝 \
+8장 - 생성 모델을 위한 딥러닝 
+  >> 8_1_Code.ipynb \
+  >> 8_2_code_deep_dream.ipynb \
+  >> 8_3_code_neural_style_transfer.ipynb
+
 9장 - 결론
