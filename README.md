@@ -32,6 +32,8 @@ Keras Deep Learning Study 자료 정리
 8장 - 생성 모델을 위한 딥러닝 
   >> 8_1_Code.ipynb \
   >> 8_2_code_deep_dream.ipynb \
-  >> 8_3_code_neural_style_transfer.ipynb
+  >> Neural Style Transfer 설명.pdf \
+  >> 8_3_code_neural_style_transfer.ipynb \
+  >> 8_4_Code.ipynb
 
 9장 - 결론
